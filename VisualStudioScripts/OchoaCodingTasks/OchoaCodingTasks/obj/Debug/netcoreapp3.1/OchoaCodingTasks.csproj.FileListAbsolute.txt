@@ -1,0 +1,14 @@
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\bin\Debug\netcoreapp3.1\OchoaCodingTasks.exe
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\bin\Debug\netcoreapp3.1\OchoaCodingTasks.deps.json
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\bin\Debug\netcoreapp3.1\OchoaCodingTasks.runtimeconfig.json
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\bin\Debug\netcoreapp3.1\OchoaCodingTasks.runtimeconfig.dev.json
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\bin\Debug\netcoreapp3.1\OchoaCodingTasks.dll
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\bin\Debug\netcoreapp3.1\OchoaCodingTasks.pdb
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.csproj.AssemblyReference.cache
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.AssemblyInfoInputs.cache
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.AssemblyInfo.cs
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.csproj.CoreCompileInputs.cache
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.dll
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.pdb
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingTasks\OchoaCodingTasks\obj\Debug\netcoreapp3.1\OchoaCodingTasks.genruntimeconfig.cache

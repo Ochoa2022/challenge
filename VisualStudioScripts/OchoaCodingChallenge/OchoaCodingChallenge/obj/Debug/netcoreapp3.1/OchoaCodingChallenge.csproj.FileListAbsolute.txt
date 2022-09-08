@@ -1,0 +1,14 @@
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.csproj.AssemblyReference.cache
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.AssemblyInfo.cs
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\bin\Debug\netcoreapp3.1\OchoaCodingChallenge.exe
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\bin\Debug\netcoreapp3.1\OchoaCodingChallenge.deps.json
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\bin\Debug\netcoreapp3.1\OchoaCodingChallenge.runtimeconfig.json
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\bin\Debug\netcoreapp3.1\OchoaCodingChallenge.runtimeconfig.dev.json
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\bin\Debug\netcoreapp3.1\OchoaCodingChallenge.dll
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\bin\Debug\netcoreapp3.1\OchoaCodingChallenge.pdb
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.dll
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.pdb
+C:\Users\737097\Documents\Unity\VisualStudioScripts\OchoaCodingChallenge\OchoaCodingChallenge\obj\Debug\netcoreapp3.1\OchoaCodingChallenge.genruntimeconfig.cache
