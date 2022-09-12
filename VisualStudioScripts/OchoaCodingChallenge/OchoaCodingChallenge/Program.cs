@@ -9,6 +9,11 @@ namespace OchoaCodingChallenge
             Console.WriteLine("Challenge 1: THE 4TH MONTH IS " + MonthName(4));
             int[] a = new int[] { 1, 2, 5, 4, 5 };
             Console.WriteLine("Challenge 2: THE MIN AND MAX OF 1-5 IS" + FindMinMax(a));
+            int[] b = new int[] { 2, -1, 4, 8, 10 };
+            Console.WriteLine("Challenge 3: THE ABSUM of 2, -1, 4, 8, 10 is " + getAbsSum(b));
+            Console.WriteLine("Challenge 4: 5^5 is " + CalculateExponent(5,5));
+            int[] k  = new int[] { 2, 3, 1, 0 };
+            Console.WriteLine("Challenge 5: 2, 3, 1, 0 " + MultiplyByLength(a));
 
 
 
@@ -86,6 +91,44 @@ namespace OchoaCodingChallenge
             }
             String values = "[" + min + "," + max + "]";
             return values;
+        }
+        public static int getAbsSum(int[] a)
+        {
+            int alength = a.Length;
+            int b = 0;
+            int total = 0;
+
+
+            while (b < alength)
+            {
+                a[b] = Math.Abs(a[b]);                
+               
+                   total = total + a[b];
+                
+                b++;
+
+            }
+            return total;   
+        }
+        public static double CalculateExponent(int a, int b)
+        {
+            double rt = Math.Pow(a, b);
+            return rt;
+        }
+       public static int[] MultiplyByLength( int[] a)
+        {   
+            int alength = a.Length;
+            int b = 0;
+            int[] c = a;
+            while (b < alength)
+            {
+                a[b] = a[b] * alength;
+                
+                b++;
+
+            }
+            
+            return a;
         }
     }
 }
