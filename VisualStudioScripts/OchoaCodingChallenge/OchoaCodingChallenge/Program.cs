@@ -7,7 +7,8 @@ namespace OchoaCodingChallenge
         static void Main(string[] args)
         {
             Console.WriteLine("Challenge 1: THE 4TH MONTH IS " + MonthName(4));
-            Console.WriteLine("Challenge 2: THE MIN " + FindMinMax([1, 2, 3, 4, 5]));
+            int[] a = new int[] { 1, 2, 5, 4, 5 };
+            Console.WriteLine("Challenge 2: THE MIN AND MAX OF 1-5 IS" + FindMinMax(a));
 
 
 
@@ -63,7 +64,7 @@ namespace OchoaCodingChallenge
             }
 
         }
-        public static int FindMinMax(int[] a)
+        public static string FindMinMax(int[] a)
         { int min = a[0];
             int max = a[0];
             int alength = a.Length;
@@ -74,15 +75,17 @@ namespace OchoaCodingChallenge
                 if (min > a[b])
                 {
                     min = a[b];
-                    b++;
+                    
                 }
                 if (max < a[b])
                 {
                     max = a[b];
-                    b++;
+                    
                 }
+                b++;
             }
-            return min;
+            String values = "[" + min + "," + max + "]";
+            return values;
         }
     }
 }
