@@ -13,7 +13,7 @@ namespace OchoaCodingChallenge
             Console.WriteLine("Challenge 3: THE ABSUM of 2, -1, 4, 8, 10 is " + getAbsSum(b));
             Console.WriteLine("Challenge 4: 5^5 is " + CalculateExponent(5,5));
             int[] k  = new int[] { 2, 3, 1, 0 };
-            Console.WriteLine("Challenge 5: 2, 3, 1, 0 " + MultiplyByLength(a));
+            Console.WriteLine("Challenge 5: 2, 3, 1, 0  " + MultiplyByLength(a));
 
 
 
@@ -119,15 +119,14 @@ namespace OchoaCodingChallenge
         {   
             int alength = a.Length;
             int b = 0;
-            int[] c = a;
-            while (b < alength)
+            /*while (b < alength)
             {
                 a[b] = a[b] * alength;
                 
                 b++;
 
             }
-            
+            String values = "is " + a;*/
             return a;
         }
     }
