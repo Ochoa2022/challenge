@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\737097\\Documents\\Unity\\VisualStudioScripts\\OchoaCodingChallenge\\OchoaCodingChallenge\\OchoaCodingChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\737097\\Documents\\Unity\\challenge\\VisualStudioScripts\\OchoaCodingChallenge\\OchoaCodingChallenge\\OchoaCodingChallenge.csproj",
       "projectName": "OchoaCodingChallenge",
-      "projectPath": "C:\\Users\\737097\\Documents\\Unity\\VisualStudioScripts\\OchoaCodingChallenge\\OchoaCodingChallenge\\OchoaCodingChallenge.csproj",
+      "projectPath": "C:\\Users\\737097\\Documents\\Unity\\challenge\\VisualStudioScripts\\OchoaCodingChallenge\\OchoaCodingChallenge\\OchoaCodingChallenge.csproj",
       "packagesPath": "C:\\Users\\737097\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\737097\\Documents\\Unity\\VisualStudioScripts\\OchoaCodingChallenge\\OchoaCodingChallenge\\obj\\",
+      "outputPath": "C:\\Users\\737097\\Documents\\Unity\\challenge\\VisualStudioScripts\\OchoaCodingChallenge\\OchoaCodingChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\737097\\AppData\\Roaming\\NuGet\\NuGet.Config"
